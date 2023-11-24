@@ -12,6 +12,16 @@ This script is designed to generate favicons of various sizes from an input imag
 
 - **ImageMagick:** Ensure that ImageMagick is installed on your system. You can download it [here](https://imagemagick.org/script/download.php). Follow the installation instructions for your platform.
 
+## Installation
+
+After you have cloned the repo to e.g. `webdevtool` folder:
+```bash
+cd webdevtoo/favgen
+sudo cp favgen.sh /usr/local/bin/favgen
+sudo chmod +x /usr/local/bin/favgen
+```
+And viola!
+
 ## Usage
 
 ```bash
