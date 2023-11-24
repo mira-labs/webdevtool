@@ -1,6 +1,6 @@
 # Web development utilities
 
-A bunch of useful scripts to automate repeatable jobs used in multiple web developmennt projects
+A bunch of useful shell scripts to automate repeatable jobs used in multiple web development projects
 
 ## ```favgen.sh``` - Favicon generator
 
