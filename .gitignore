@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+
+# JetBrains IDEs
+.idea/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+/nbproject/private/
+/build/
+
+# Xcode
+*.xcworkspace
+*.xcuserdatad
+
+# Android Studio
+*.iml
+.gradle/
+/captures/
+/local.properties
+
+# Visual Studio
+.vscode/
+bin/
+obj/
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Atom
+.atom/
