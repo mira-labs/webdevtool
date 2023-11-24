@@ -25,4 +25,4 @@ And viola!
 ## Usage
 
 ```bash
-./favicon.sh -i 'input_image.png' [-o output_folder] [-n 'app_name'] [-d] [-p 'package_name']
+favgen -i 'input_image.png' [-o output_folder] [-n 'app_name'] [-d] [-p 'package_name']
